@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'GABRWFFR';
+    src: url('fonts/GABRWFFR.eot');
+    src: url('fonts/GABRWFFR.eot?#iefix') format('embedded-opentype'),
+         url('fonts/GABRWFFR.woff') format('woff'),
+         url('fonts/GABRWFFR.ttf') format('truetype'),
+         url('fonts/GABRWFFR.svg#GABRWFFR') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ombre';
+    src: url('fonts/la Compagnie des Ombres.eot');
+    src: url('fonts/la Compagnie des Ombres.eot?#iefix') format('embedded-opentype'),
+         url('fonts/la Compagnie des Ombres.woff') format('woff'),
+         url('fonts/la Compagnie des Ombres.ttf') format('truetype'),
+         url('fonts/la Compagnie des Ombres.svg#la Compagnie des Ombres') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anjelika Rose';
+    src: url('fonts/Anjelika Rose.eot');
+    src: url('fonts/Anjelika Rose.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Anjelika Rose.woff') format('woff'),
+         url('fonts/Anjelika Rose.ttf') format('truetype'),
+         url('fonts/Anjelika Rose.svg#Anjelika Rose') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+	font-family: 'Ombre';
+}
+
+h1{
+	font-family: 'Anjelika Rose';
+	text-align: center;
+}
+
+
+
+.row{
+	background-color: #8FFF70;
+	
+}
+
+.carousel{
+	padding-bottom: 20px;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+
